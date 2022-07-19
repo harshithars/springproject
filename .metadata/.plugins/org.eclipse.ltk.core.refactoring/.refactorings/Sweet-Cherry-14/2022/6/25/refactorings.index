@@ -1,0 +1,14 @@
+1655379572183	Rename package 'com.sweet.controller'
+1655379596808	Rename package 'com.sweet.dao'
+1655379609774	Rename package 'com.sweet.services'
+1655379626849	Rename package 'com.sweet.entity'
+1655379640791	Rename package 'com.sweet.repository'
+1655525496824	Delete element
+1655530703939	Rename package 'com.example.demo'
+1655530716682	Rename package 'com.example.controller'
+1655530728520	Rename package 'com.example.entity'
+1655530739412	Rename package 'com.example.repository'
+1655530750558	Rename package 'com.example.services'
+1655530763923	Rename package 'comexample.dao'
+1655560831122	Move file
+1655564376834	Move 'pom.xml' to 'Sweet-Cherry-14'
